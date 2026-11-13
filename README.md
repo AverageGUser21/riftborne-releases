@@ -2,23 +2,23 @@
 
 An anime-style 3D action RPG: clear ranked Rift Gates, fight multi-phase bosses, collect loot, unlock cinematic Ascendant Arts, and team up with a friend in 2-player online co-op.
 
-**Latest version: 2.8.0** · [All downloads](https://github.com/AverageGUser21/riftborne-releases/releases/latest)
+**Latest version: 2.8.1** · [All downloads](https://github.com/AverageGUser21/riftborne-releases/releases/latest)
 
 ## Download
 
 | Your computer | Download |
 |---|---|
-| **Windows 10 / 11** (recommended) | [Riftborne-Setup-2.8.0.exe](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-Setup-2.8.0.exe) |
-| Windows, no install (portable) | [Riftborne-2.8.0-Windows.exe](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-2.8.0-Windows.exe) |
-| **Mac with Apple Silicon** (M1, M2, M3, M4) | [Riftborne-2.8.0-mac-AppleSilicon.zip](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-2.8.0-mac-AppleSilicon.zip) |
-| Mac with an Intel processor | [Riftborne-2.8.0-mac-Intel.zip](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-2.8.0-mac-Intel.zip) |
+| **Windows 10 / 11** (recommended) | [Riftborne-Setup-2.8.1.exe](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-Setup-2.8.1.exe) |
+| Windows, no install (portable) | [Riftborne-2.8.1-Windows.exe](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-2.8.1-Windows.exe) |
+| **Mac with Apple Silicon** (M1, M2, M3, M4) | [Riftborne-2.8.1-mac-AppleSilicon.zip](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-2.8.1-mac-AppleSilicon.zip) |
+| Mac with an Intel processor | [Riftborne-2.8.1-mac-Intel.zip](https://github.com/AverageGUser21/riftborne-releases/releases/latest/download/Riftborne-2.8.1-mac-Intel.zip) |
 
 Not sure which Mac you have? Apple menu › About This Mac: "Chip: Apple M…" means Apple Silicon, "Processor: Intel" means Intel.
 
 ## Install
 
 ### Windows
-1. Run **Riftborne-Setup-2.8.0.exe**. No administrator rights needed; it installs for your user and adds a desktop and Start-menu shortcut.
+1. Run **Riftborne-Setup-2.8.1.exe**. No administrator rights needed; it installs for your user and adds a desktop and Start-menu shortcut.
 2. If Windows shows **"Windows protected your PC"**, click **More info** › **Run anyway**. (The game isn't signed with a paid code-signing certificate, so Windows doesn't recognise it yet.)
 
 ### Mac (macOS 12 Monterey or newer)
